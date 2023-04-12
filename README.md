@@ -1,7 +1,7 @@
 <h1 align="center">Dad Jokes</h1>
 
 <p align="center">
-  <img src="./images/dadjokes.png" alt="Dad Jokes" width="400" />
+  <img src="./dadjokes.png" alt="Dad Jokes" width="400" />
 </p>
 
 <p align="center">A basic website that displays a new Dad Joke every time the button is clicked.</p>
